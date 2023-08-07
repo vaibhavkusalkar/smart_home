@@ -6,7 +6,7 @@ Star⭐ the repo if you like what you see😉.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/vaibhavkusalkar/bank_wallet/blob/d14b09b7b833841337526723a7d513629336ee8d/Mockups/wallet_app%20Homepage.png=430x932)
+![App Screenshot](https://github.com/vaibhavkusalkar/smart_home/blob/ba1204c11a6ed05c5de345296ccb2b50916ac101/mockups/design1.png)
 
 ## Screens
 * Home Screen
